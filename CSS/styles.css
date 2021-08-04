@@ -3,6 +3,13 @@
   color: red;
 }
 
+div {
+  background-color: lightgreen;
+  border: solid;
+  border-color: black;
+  margin: 10px;
+  padding: 10px;
+}
 img {
   width: 50%;
 }
